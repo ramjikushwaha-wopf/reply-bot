@@ -1,8 +1,8 @@
 import time
 from telebot import TeleBot
 
-BOT_TOKEN = "PASTE_BOT_TOKEN"
-ADMIN_ID = 123456789  # apna telegram id
+BOT_TOKEN = "8197275606:AAEqSliPhzVAmNSYfsWoEiZafi05PsqvdmQ"
+ADMIN_ID = 7755690018  # apna telegram id
 
 bot = TeleBot(BOT_TOKEN)
 
